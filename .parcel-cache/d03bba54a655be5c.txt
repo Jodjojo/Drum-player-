@@ -1,15 +1,4 @@
-4289
-96C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\cosmiconfig\dist\index.js133257282194522457 0
-79C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\css-what133257282198950616 1
-114C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\caniuse-lite\data\features\web-animation.js133257282227685454 0
-97C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\yaml\browser\types\omap.js133257282197634138 0
-107C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\htmlnano\docs\docs\060-contribute.md133257282206362469 0
-140C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\package-manager\test\fixtures\has-foo\subpackage\package.json133257282203488474 0
-102C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\caniuse-lite\data\regions\MP.js133257282223396912 0
-91C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\terser\dist\.gitkeep133257282188262316 0
-91C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\micromatch\README.md133257282191380856 0
-116C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\reporter-dev-server\src\types.js.flow133257282189386189 0
-64C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\sounds133257273493020271 1
+4297
 122C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@jridgewell\gen-mapping\dist\gen-mapping.umd.js.map133257282192926718 0
 102C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\source-map\lib\binary-search.js133257282194761831 0
 103C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\lmdb\dependencies\lmdb\libraries133257282190473275 1
@@ -32,9 +21,17 @@
 117C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\caniuse-lite\data\features\css-color-adjust.js133257282213154309 0
 102C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\caniuse-lite\data\regions\FM.js133257282218400294 0
 99C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\electron-to-chromium\LICENSE133257282188418771 0
-62C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\dist133257282751780991 1
+62C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\dist133257283601676317 1
+103C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\css-what\lib\commonjs\index.d.ts133257282199299665 0
+100C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@babel\highlight\node_modules133257282170135474 1
+88C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@msgpackr-extract133257282245215395 1
+102C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\entities\lib\maps\entities.json133257282196357545 0
+121C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\caniuse-lite\data\features\input-file-directory.js133257282220394940 0
+105C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\core\lib\CommittedAsset.js133257282203997107 0
+86C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\posthtml-render133257282192248531 1
+68C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\.gitignore133257282970262873 0
 116C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\caniuse-lite\data\features\async-clipboard.js133257282202580903 0
-77C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\dotenv133257282191779790 1
+77C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\dotenv133257282192826992 1
 117C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\caniuse-lite\data\features\text-size-adjust.js133257282226648217 0
 79C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\css-tree133257282212934896 1
 64C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\images133257278590178235 1
@@ -46,7 +43,7 @@
 116C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\abortcontroller-polyfill\dist\umd-polyfill.js133257282196726555 0
 95C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\svgo\lib\svgo\jsAPI.d.ts133257282207738794 0
 101C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\css-select\lib\attributes.d.ts133257282201244468 0
-84C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\color-convert133257282192966617 1
+84C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\color-convert133257282193684693 1
 91C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\svgo\lib\svgo\coa.js133257282197933328 0
 91C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\import-fresh\license133257282188202481 0
 91C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\tslib\tslib.es6.html133257282188222425 0
@@ -62,6 +59,17 @@
 80C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\term-size133257282195639463 1
 70C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules133257282246222700 1
 88C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\csso\lib\index.js133257282202112163 0
+96C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\cosmiconfig\dist\index.js133257282194522457 0
+79C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\css-what133257282198950616 1
+114C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\caniuse-lite\data\features\web-animation.js133257282227685454 0
+97C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\yaml\browser\types\omap.js133257282197634138 0
+107C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\htmlnano\docs\docs\060-contribute.md133257282206362469 0
+140C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\package-manager\test\fixtures\has-foo\subpackage\package.json133257282203488474 0
+102C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\caniuse-lite\data\regions\MP.js133257282223396912 0
+91C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\terser\dist\.gitkeep133257282188262316 0
+91C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\micromatch\README.md133257282191380856 0
+116C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\reporter-dev-server\src\types.js.flow133257282189386189 0
+64C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\sounds133257273493020271 1
 107C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\svgo\plugins\cleanupNumericValues.js133257282197285063 0
 108C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@swc\helpers\lib\_array_with_holes.js133257282191191354 0
 117C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\transformer-js\src\esmodule-helpers.js133257282190682725 0
@@ -125,7 +133,7 @@
 105C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\caniuse-lite\data\features\webp.js133257282228004586 0
 84C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@lezer\common133257282193714627 1
 87C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\stable\stable.js133257282190902132 0
-84C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\dotenv-expand133257282190732596 1
+84C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\dotenv-expand133257282192527789 1
 88C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\get-port\index.js133257282190104263 0
 89C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\json5\package.json133257282196856204 0
 99C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\timsort\build\timsort.min.js133257282194183356 0
@@ -135,14 +143,14 @@
 77C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\stable133257282191640160 1
 116C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\caniuse-lite\data\features\iframe-seamless.js133257282219976057 0
 90C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\css-tree\lib\walker133257282206901027 1
-89C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\chrome-trace-event133257282191979257 1
+89C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\chrome-trace-event133257282193854240 1
 92C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\entities\lib\index.js133257282195619519 0
 83C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\caniuse-lite133257282228483325 1
 75C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\.bin133257282228981971 1
 102C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\caniuse-lite\data\regions\CU.js133257282216834471 0
 108C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\svgo\plugins\moveGroupAttrsToElems.js133257282202381444 0
 116C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\caniuse-lite\data\features\getrandomvalues.js133257282219148271 0
-79C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\escalade133257282192138830 1
+79C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\escalade133257282194452637 1
 100C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\utils\src\Deferred.js133257282198641437 0
 77C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@babel133257282170095577 1
 111C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\caniuse-lite\data\features\array-flat.js133257282201882780 0
@@ -160,9 +168,6 @@
 100C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\v8-compile-cache\CHANGELOG.md133257282191271145 0
 115C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\caniuse-lite\data\features\css-cross-fade.js133257282213812547 0
 97C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\graph\lib\types.js133257282198591566 0
-103C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\css-what\lib\commonjs\index.d.ts133257282199299665 0
-100C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@babel\highlight\node_modules133257282170135474 1
-88C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@msgpackr-extract133257282245215395 1
 93C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\safe-buffer\index.d.ts133257282192438022 0
 118C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\watcher\src\watchman\WatchmanBackend.cc133257282197534403 0
 101C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\xxhash-wasm\cjs\xxhash-wasm.js133257282188438717 0
@@ -184,7 +189,7 @@
 95C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\abortcontroller-polyfill133257282197524421 1
 106C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\type-fest\source\promise-value.d.ts133257282201354178 0
 102C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\caniuse-lite\data\regions\LT.js133257282222549181 0
-76C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\clone133257282191799733 1
+76C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\clone133257282193006502 1
 105C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\core\src\PackagerRunner.js133257282208247430 0
 125C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\core\test\fixtures\targets-default-distdir-one133257282215557879 1
 91C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\msgpackr\SECURITY.md133257282204216550 0
@@ -192,7 +197,7 @@
 112C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\entities\lib\generated\decode-data-xml.js133257282192956650 0
 122C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\source-map\parcel_sourcemap_node\Cargo.toml133257282207778681 0
 110C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\node-resolver-core\test\fixture133257282209354464 1
-80C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\yaml\dist133257282203927293 1
+80C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\yaml\dist133257282204196608 1
 79C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\htmlnano133257282206970850 1
 76C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\acorn133257282196008484 1
 98C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\css-tree\lib\lexer\error.js133257282203767723 0
@@ -204,7 +209,7 @@
 116C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\css-select\lib\pseudo-selectors\subselects.js133257282196896109 0
 85C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\domelementtype133257282194771784 1
 102C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\caniuse-lite\data\regions\PK.js133257282224613668 0
-82C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\detect-libc133257282190712649 1
+82C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\detect-libc133257282192986555 1
 92C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\msgpackr\package.json133257282200456577 0
 110C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\caniuse-lite\data\features\proximity.js133257282224912852 0
 117C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\caniuse-lite\data\features\webkit-user-drag.js133257282227924801 0
@@ -251,7 +256,7 @@
 83C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\browserslist133257282196187992 1
 123C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\node-resolver-core\test\fixture\node_modules133257282207339864 1
 87C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\semver\semver.js133257282191769817 0
-82C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\buffer-from133257282189555734 1
+82C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\buffer-from133257282190553078 1
 97C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\css-tree\lib\syntax\atrule133257282209484119 1
 104C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\postcss-value-parser\package.json133257282194013811 0
 90C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\escalade\index.d.ts133257282194552376 0
@@ -318,7 +323,7 @@
 102C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\caniuse-lite\data\regions\JO.js133257282221103046 0
 82C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\htmlparser2133257282196906079 1
 80C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\json5\lib133257282199648742 1
-83C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\import-fresh133257282190602930 1
+83C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\import-fresh133257282191700161 1
 102C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\caniuse-lite\data\regions\DK.js133257282217303226 0
 81C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\nullthrows133257282192807039 1
 101C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\node-addon-api\tools\README.md133257282199927994 0
@@ -445,10 +450,6 @@
 102C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\caniuse-lite\data\regions\GE.js133257282219028593 0
 86C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\posthtml-parser133257282193844271 1
 97C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\compressor-raw\src133257282190343625 1
-102C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\entities\lib\maps\entities.json133257282196357545 0
-121C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\caniuse-lite\data\features\input-file-directory.js133257282220394940 0
-105C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\core\lib\CommittedAsset.js133257282203997107 0
-86C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\posthtml-render133257282192248531 1
 90C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\react-error-overlay133257282195110876 1
 105C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\xxhash-wasm\cjs\xxhash-wasm.js.map133257282193006502 0
 84C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\react-refresh133257282195908747 1
@@ -508,7 +509,7 @@
 102C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\caniuse-lite\data\regions\AW.js133257282203937267 0
 96C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\cosmiconfig\dist\types.js133257282196108207 0
 92C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\import-fresh\index.js133257282188977282 0
-76C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\tslib133257282196267789 1
+76C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\tslib133257282196726555 1
 95C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\domhandler\lib\node.d.ts133257282195489865 0
 119C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\terser\node_modules\commander\typings\index.d.ts133257282193814347 0
 114C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\runtime-service-worker\package.json133257282191550403 0
@@ -516,7 +517,7 @@
 85C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\yaml\scalar.js133257282201872802 0
 120C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\module.h133257282209155004 0
 96C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\core\src\requests133257282214620396 1
-93C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\update-browserslist-db133257282193515144 1
+93C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\update-browserslist-db133257282194203301 1
 123C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\caniuse-lite\data\features\css-print-color-adjust.js133257282215966783 0
 84C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\utility-types133257282197723887 1
 110C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\css-tree\lib\syntax\atrule\font-face.js133257282204136737 0
@@ -529,9 +530,9 @@
 105C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\package-manager\src\Npm.js133257282201473860 0
 105C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\caniuse-lite\data\features\colr.js133257282209145056 0
 107C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\ordered-binary\assets\powers-dre.png133257282195709280 0
-82C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\xxhash-wasm133257282195569652 1
+82C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\xxhash-wasm133257282196068319 1
 118C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\transformer-json\src\JSONTransformer.js133257282190493233 0
-75C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\yaml133257282205064269 1
+75C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\yaml133257282205154016 1
 86C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\lmdb\caching.js133257282209514038 0
 106C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\transformer-postcss\LICENSE133257282188322156 0
 93C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\plugin\LICENSE133257282188312187 0
@@ -594,7 +595,7 @@
 92C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\htmlnano\CHANGELOG.md133257282206621779 0
 94C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\svgo\plugins\plugins.js133257282202860148 0
 93C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\color-convert\index.js133257282191181381 0
-81C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\yaml\types133257282202880095 1
+81C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\yaml\types133257282203219190 1
 86C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\yaml\types.d.ts133257282205104150 0
 104C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\update-browserslist-db\index.d.ts133257282194372854 0
 91C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\htmlnano\lib\modules133257282201862835 1
@@ -616,6 +617,7 @@
 103C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\nth-check\lib\esm\index.d.ts.map133257282197145434 0
 102C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\caniuse-lite\data\regions\UZ.js133257282227316455 0
 90C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\yaml\types\pairs.js133257282198900738 0
+76C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\dist\kick-bass.mp3133257271462055407 0
 88C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\stable\index.d.ts133257282188907461 0
 110C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\terser\lib\compress\compressor-flags.js133257282200546338 0
 85C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\terser\main.js133257282203149380 0
@@ -643,7 +645,7 @@
 126C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\lmdb\dependencies\lz4\lib\dll\example\fullbench-dll.sln133257282213244069 0
 128C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\node-releases\data\release-schedule\release-schedule.json133257282192507838 0
 128C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest6.c133257282206960880 0
-127C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\foo133257282202471197 1
+127C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\foo133257282207938257 1
 104C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\config-default\index.json133257282191321015 0
 103C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\yaml\dist\PlainValue-ec8e588e.js133257282200945273 0
 101C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@types\parse-json\package.json133257282190981933 0
@@ -657,7 +659,7 @@
 123C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\core\test\fixtures\library-custom-scopehoist133257282215388344 1
 115C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\transformer-html\lib\dependencies.js133257282189346295 0
 99C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\yaml\dist\Schema-88e323a7.js133257282202052315 0
-83C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\terser\tools133257282200705919 1
+83C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\terser\tools133257282206182951 1
 131C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\posthtml\node_modules\posthtml-parser\dist\chunk.2UQLUWPH.js133257282189436055 0
 138C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages133257282228991944 0
 99C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\css-tree\dist\csstree.min.js133257282202919990 0
@@ -708,7 +710,7 @@
 114C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\caniuse-lite\data\features\iframe-srcdoc.js133257282219986036 0
 96C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\yaml\browser\dist\util.js133257282203797642 0
 114C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\css-tree\lib\definition-syntax\tokenizer.js133257282209912980 0
-89C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\yaml\browser\types133257282202800308 1
+89C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\yaml\browser\types133257282203099514 1
 101C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\css-what\lib\es\index.d.ts.map133257282196945977 0
 97C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\yaml\browser\dist\index.js133257282193963943 0
 130C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_stat.c133257282203598195 0
@@ -768,7 +770,7 @@
 79C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\lmdb\src133257282208446897 1
 102C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\caniuse-lite\data\regions\MC.js133257282222828441 0
 128C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\dom-serializer\node_modules\entities\lib\maps\legacy.json133257282195180692 0
-86C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\xxhash-wasm\cjs133257282188282262 1
+86C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\xxhash-wasm\cjs133257282192856904 1
 105C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\css-tree\lib\syntax\node\String.js133257282209374412 0
 107C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\dom-serializer\node_modules\entities133257282197723887 1
 127C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\LICENSE133257282195130825 0
@@ -790,12 +792,10 @@
 118C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\core\lib\requests\WriteBundleRequest.js133257282214530627 0
 96C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\lines-and-columns\LICENSE133257282188172565 0
 93C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\xxhash-wasm\types.d.ts133257282196138130 0
-106C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\dom-serializer\lib\esm\package.json133257282193824324 0
-95C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\json5\dist\index.min.mjs133257282197893433 0
 107C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\svgo\plugins\removeOffCanvasPaths.js133257282204794974 0
 86C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\xxhash-wasm\umd133257282194273135 1
 105C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\xxhash-wasm\umd\xxhash-wasm.js.map133257282194552376 0
-93C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\dom-serializer\lib\esm133257282197025753 1
+93C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\dom-serializer\lib\esm133257282197703938 1
 125C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\dom-serializer\node_modules\entities\lib\maps\xml.json133257282196158073 0
 100C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\terser\lib\compress\common.js133257282200386764 0
 106C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\lmdb\dependencies\lz4\lib\README.md133257282212984761 0
@@ -811,7 +811,7 @@
 103C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\update-browserslist-db\README.md133257282193694664 0
 94C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\weak-lru-cache\index.js133257282190443363 0
 98C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\weak-lru-cache\package.json133257282194013811 0
-134C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\@scope\pkg133257282201842879 1
+134C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\@scope\pkg133257282207808608 1
 92C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\chalk\source\index.js133257282189396158 0
 97C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\react-refresh\package.json133257282195539728 0
 96C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\watcher\prebuilds133257282204824901 1
@@ -856,7 +856,7 @@
 84C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\timsort\build133257282193983912 1
 125C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\core\test\fixtures\common-targets\package.json133257282214819869 0
 104C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\packager-svg\package.json133257282191560377 0
-89C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\utility-types\dist133257282198741163 1
+89C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\utility-types\dist133257282199110181 1
 116C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\caniuse-lite\data\features\canvas-blending.js133257282207968172 0
 92C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\utility-types\LICENSE133257282188242370 0
 90C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\picomatch\README.md133257282196168073 0
@@ -917,7 +917,7 @@
 89C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\lmdb\src\windows.c133257282207070574 0
 102C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\workers\lib\Profiler.js133257282201354178 0
 90C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\type-fest\base.d.ts133257282193505169 0
-87C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\type-fest\source133257282202840203 1
+87C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\type-fest\source133257282202939938 1
 99C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\nth-check\lib\compile.js.map133257282196497174 0
 107C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\cosmiconfig\dist\ExplorerBase.js.map133257282198382121 0
 109C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\css-tree\lib\syntax\atrule\supports.js133257282209504068 0
@@ -931,16 +931,16 @@
 113C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\hash\parcel-hash.darwin-arm64.node133257282196317648 0
 102C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\caniuse-lite\data\regions\GG.js133257282219188165 0
 85C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\type-fest\ts41133257282202361486 1
-106C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\source-map\dist\source-map.debug.js133257282199668688 0
-105C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\type-fest\ts41\delimiter-case.d.ts133257282196766445 0
-102C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\caniuse-lite\data\regions\VE.js133257282227386250 0
-109C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@jridgewell\sourcemap-codec\dist\types133257282194951303 1
-89C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\msgpackr\struct.js133257282199010450 0
-111C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\caniuse-lite\data\features\filesystem.js133257282218220773 0
 100C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\source-map-support\LICENSE.md133257282193674727 0
 116C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\caniuse-lite\data\features\offscreencanvas.js133257282224105038 0
 97C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\nth-check\lib\esm\index.js133257282191340959 0
 108C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\posthtml\node_modules\posthtml-parser133257282193046396 1
+105C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\type-fest\ts41\delimiter-case.d.ts133257282196766445 0
+106C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\source-map\dist\source-map.debug.js133257282199668688 0
+102C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\caniuse-lite\data\regions\VE.js133257282227386250 0
+109C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@jridgewell\sourcemap-codec\dist\types133257282194951303 1
+89C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\msgpackr\struct.js133257282199010450 0
+111C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\caniuse-lite\data\features\filesystem.js133257282218220773 0
 112C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\caniuse-lite\data\features\input-color.js133257282220295209 0
 99C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\terser\lib\compress\index.js133257282202590872 0
 98C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\node-addon-api\CHANGELOG.md133257282199070290 0
@@ -1087,7 +1087,7 @@
 91C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\domhandler\readme.md133257282194163416 0
 95C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\timsort\build\timsort.js133257282193495200 0
 105C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\css-tree\lib\common\SyntaxError.js133257282209533988 0
-81C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\terser\bin133257282191011845 1
+81C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\terser\bin133257282205134074 1
 123C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\caniuse-lite\data\features\contentsecuritypolicy2.js133257282209533988 0
 90C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\terser\CHANGELOG.md133257282205913673 0
 114C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\caniuse-lite\data\features\css-boxshadow.js133257282212755426 0
@@ -1330,7 +1330,7 @@
 93C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\svgo\lib\svgo\jsAPI.js133257282201633433 0
 93C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\svgo\lib\svgo\tools.js133257282207339864 0
 105C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\caniuse-lite\data\features\spdy.js133257282225980019 0
-88C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\nth-check\lib\esm133257282200087569 1
+88C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\nth-check\lib\esm133257282200496478 1
 100C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\ordered-binary\dist\index.cjs133257282189226609 0
 102C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\caniuse-lite\data\regions\TD.js133257282226508606 0
 96C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\is-arrayish\.editorconfig133257282193664749 0
@@ -1540,7 +1540,7 @@
 91C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\is-json\package.json133257282188132666 0
 92C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\posthtml\lib\index.js133257282190253866 0
 122C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_stat.c133257282203737810 0
-95C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\postcss-value-parser\lib133257282193156114 1
+95C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\postcss-value-parser\lib133257282195090935 1
 101C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\postcss-value-parser\README.md133257282194632158 0
 90C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\braces\lib\parse.js133257282195370189 0
 106C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\postcss-value-parser\lib\index.d.ts133257282195400112 0
@@ -1786,7 +1786,7 @@
 87C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\lmdb\src\dbi.cpp133257282207688936 0
 94C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\micromatch\package.json133257282190004529 0
 100C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\csso\lib\restructure\index.js133257282202431297 0
-83C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\mdn-data\api133257282196696636 1
+83C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\mdn-data\api133257282197095565 1
 84C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\css-tree\dist133257282202640739 1
 83C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\mdn-data\css133257282201184634 1
 97C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\css-what\lib\es\parse.d.ts133257282200107524 0
@@ -1989,6 +1989,8 @@
 102C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\css-tree\lib\tokenizer\const.js133257282199150078 0
 92C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\json5\lib\register.js133257282194392796 0
 94C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\json5\dist\index.min.js133257282192607573 0
+106C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\dom-serializer\lib\esm\package.json133257282193824324 0
+95C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\json5\dist\index.min.mjs133257282197893433 0
 111C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\json-parse-even-better-errors\LICENSE.md133257282190932053 0
 102C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\caniuse-lite\data\regions\NP.js133257282223965390 0
 107C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\core\lib\UncommittedAsset.js133257282214041931 0
@@ -2440,7 +2442,7 @@
 92C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\css-what\package.json133257282196327623 0
 113C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\caniuse-lite\data\features\svg-fragment.js133257282226329070 0
 92C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\css-what\lib\commonjs133257282200626129 1
-86C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\css-what\lib\es133257282200456577 1
+86C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\css-what\lib\es133257282200895407 1
 106C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\caniuse-lite\data\features\webxr.js133257282228104326 0
 97C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\css-what\lib\es\index.d.ts133257282199549012 0
 153C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-false-glob\sub\b133257282203957215 1
@@ -2591,7 +2593,7 @@
 110C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\graph\test\ContentGraph.test.js133257282195948642 0
 96C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\css-select\lib\types.d.ts133257282202600842 0
 115C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\workers\src\threads\ThreadsWorker.js133257282202541008 0
-94C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\chrome-trace-event\dist133257282190044430 1
+94C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\chrome-trace-event\dist133257282192986555 1
 109C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\caniuse-lite\data\features\lazyload.js133257282221900910 0
 100C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\css-select\lib\types.d.ts.map133257282200606180 0
 106C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@babel\highlight\node_modules\chalk133257282193604904 1
@@ -2781,7 +2783,7 @@
 134C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\foo\bar.js133257282194871525 0
 106C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\core\test\fixtures\main-mjs133257282215478088 1
 102C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\caniuse-lite\data\regions\MH.js133257282223257312 0
-102C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\utils\test\input\config133257282207110471 1
+102C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\utils\test\input\config133257282208606469 1
 102C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\caniuse-lite\data\regions\MK.js133257282223307171 0
 102C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\caniuse-lite\data\regions\ML.js133257282223327118 0
 102C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\caniuse-lite\data\regions\MT.js133257282223526578 0
@@ -2932,6 +2934,7 @@
 115C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\caniuse-lite\data\features\css-gencontent.js133257282214630359 0
 99C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\transformer-posthtml133257282193225923 1
 114C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\caniuse-lite\data\features\css-gradients.js133257282214680237 0
+72C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\dist\tom-2.mp3133257271793321299 0
 109C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\caniuse-lite\data\features\css-grid.js133257282214779966 0
 121C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-node133257282207848494 1
 124C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\caniuse-lite\data\features\css-hanging-punctuation.js133257282214829842 0
@@ -3361,7 +3364,7 @@
 105C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\core\src\serializerCore.js133257282212835159 0
 80C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\acorn\bin133257282188112721 1
 89C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\acorn\CHANGELOG.md133257282195609544 0
-81C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\acorn\dist133257282197733866 1
+81C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\acorn\dist133257282198082933 1
 84C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\acorn\LICENSE133257282189186725 0
 89C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\acorn\package.json133257282194781761 0
 86C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\acorn\README.md133257282196108207 0
@@ -3372,7 +3375,7 @@
 86C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\acorn\bin\acorn133257282188398792 0
 100C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\abortcontroller-polyfill\dist133257282196477231 1
 105C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\abortcontroller-polyfill\README.md133257282197654077 0
-99C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\abortcontroller-polyfill\src133257282196148100 1
+99C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\abortcontroller-polyfill\src133257282196866179 1
 104C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\runtime-react-refresh\src133257282190313722 1
 118C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\abortcontroller-polyfill\src\abortcontroller.js133257282193724591 0
 111C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\abortcontroller-polyfill\src\polyfill.js133257282195848919 0
@@ -3542,7 +3545,7 @@
 94C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\package-manager133257282204585540 1
 90C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\packager-js133257282199648742 1
 112C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\core\test\fixtures\common-targets133257282214809881 1
-91C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\packager-svg133257282189844964 1
+91C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\packager-svg133257282191241230 1
 95C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\resolver-default133257282191251201 1
 101C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\core\lib\Dependency.js133257282204904687 0
 98C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\runtime-browser-hmr133257282195140796 1
@@ -3554,7 +3557,7 @@
 94C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\transformer-css133257282191560377 1
 96C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\transformer-image133257282194692009 1
 94C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\transformer-raw133257282191221278 1
-94C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\transformer-svg133257282193235906 1
+94C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\transformer-svg133257282195420060 1
 84C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\types133257282193245869 1
 86C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\watcher133257282206581885 1
 113C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\core\test\PublicDependency.test.js133257282209843164 0
@@ -3817,7 +3820,7 @@
 118C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\resolver-default\src\DefaultResolver.js133257282190513173 0
 118C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\resolver-default\lib\DefaultResolver.js133257282189366242 0
 126C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\core\test\fixtures\invalid-targets\package.json133257282215358410 0
-102C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\reporter-dev-server\src133257282194093594 1
+102C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\reporter-dev-server\src133257282199509114 1
 115C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\reporter-dev-server\src\HMRServer.js133257282192916742 0
 112C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\reporter-dev-server\src\Server.js133257282193624884 0
 120C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\reporter-dev-server\src\ServerReporter.js133257282199608847 0
@@ -3900,7 +3903,7 @@
 103C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\core\test\Parcel.test.js133257282208566584 0
 89C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@lezer\common\dist133257282196048368 1
 101C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\node-resolver-core\lib133257282206083234 1
-101C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\node-resolver-core\src133257282198691305 1
+101C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\node-resolver-core\src133257282206212877 1
 118C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\node-resolver-core\test\fixture\env-dep133257282207718846 1
 169C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@jridgewell\trace-mapping\node_modules\@jridgewell\sourcemap-codec\dist\types\sourcemap-codec.d.ts133257282195070979 0
 117C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\node-resolver-core\test\fixture\foo.js133257282200975197 0
@@ -3990,7 +3993,7 @@
 92C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\fs\index.d.ts133257282198691305 0
 111C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\hash\parcel-hash.darwin-x64.node133257282198302339 0
 116C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\hash\parcel-hash.linux-arm64-gnu.node133257282201284361 0
-89C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\graph\test133257282195838936 1
+89C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\graph\test133257282196945977 1
 111C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\graph\test\AdjacencyList.test.js133257282194063677 0
 114C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\core\test\fixtures\config\.parcelrc133257282195938668 0
 105C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\graph\src\AdjacencyList.js133257282193026451 0
@@ -4037,7 +4040,7 @@
 114C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\core\test\PublicEnvironment.test.js133257282210022685 0
 121C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\core\test\PublicMutableBundleGraph.test.js133257282210222160 0
 102C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\core\test\test-utils.js133257282213822522 0
-122C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\core\test\fixtures\config-extends-not-found133257282197165382 1
+122C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\core\test\fixtures\config-extends-not-found133257282197624160 1
 122C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\core\test\fixtures\custom-format-infer-type133257282214899640 1
 120C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\core\test\fixtures\custom-format-mismatch133257282214929561 1
 115C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\core\test\fixtures\duplicate-targets133257282215009345 1
@@ -4121,7 +4124,7 @@
 101C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\config-default\LICENSE133257282189446026 0
 92C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\codeframe\lib133257282201194606 1
 96C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\codeframe\LICENSE133257282188252345 0
-93C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\codeframe\test133257282188827676 1
+93C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\codeframe\test133257282200705919 1
 105C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\codeframe\lib\codeframe.js133257282200257115 0
 109C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\codeframe\lib\codeframe.js.map133257282204256423 0
 99C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\node_modules\@parcel\cache\src\FSCache.js133257282190483249 0
@@ -4282,9 +4285,14 @@
 73C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\images\tom2.png133257278257329476 0
 73C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\images\tom3.png133257278426130582 0
 73C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\images\tom4.png133257278591694193 0
+72C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\dist\crash.mp3133257271336137895 0
 81C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\dist\index.38afb922.css133257282751701204 0
 85C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\dist\index.38afb922.css.map133257282751771042 0
 80C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\dist\index.754f2078.js133257282751701204 0
 80C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\dist\kick.5fe5f0cf.png133257282742621190 0
 81C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\dist\snare.ed6fdf41.png133257282742611226 0
+72C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\dist\snare.mp3133257271561133401 0
+72C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\dist\tom-1.mp3133257271675696424 0
+72C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\dist\tom-3.mp3133257271891056572 0
+72C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\dist\tom-4.mp3133257271982898602 0
 80C:\Users\JODJOJO\Desktop\Front-end Portfolio\Drum-player'\dist\tom4.75b4bb5a.png133257282742710961 0
